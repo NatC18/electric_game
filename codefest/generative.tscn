@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bu15v3g52kft8"]
+
+[ext_resource type="Script" path="res://generative.gd" id="1_phwi0"]
+
+[node name="generative" type="Node2D"]
+script = ExtResource("1_phwi0")
